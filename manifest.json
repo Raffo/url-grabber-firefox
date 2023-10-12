@@ -23,5 +23,10 @@
       },
       "description": "Open the extension"
     }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "f0d8eaa094b67b6a553f578065c49e7bf26de970@uppuiu.com"
+    }
   }
 }
